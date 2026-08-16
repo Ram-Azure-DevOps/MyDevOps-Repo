@@ -4,4 +4,3 @@ rgs = {
     location            = "Central India"
   }
 }
-

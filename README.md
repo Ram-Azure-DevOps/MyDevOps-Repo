@@ -1,2 +1,0 @@
-# MyDevOps-Repo
-MyDevOps-Learning
